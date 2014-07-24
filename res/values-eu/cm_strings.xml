@@ -16,9 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">قوفڵی ڕوونمای CM</string>
-  <string name="keyguard_discharging">بارگاوی نه‌کردن, <xliff:g id="ژماره‌">%d</xliff:g><xliff:g id="له‌سه‌دا">%%</xliff:g></string>
-  <string name="missed_call">په‌یوه‌ندی وه‌ڵام نه‌دراوه‌</string>
-  <string name="message_from">نامه‌یه‌ک له‌لایه‌ن</string>
-  <string name="message_from_person">نامه‌یه‌ک له‌لایه‌ن %1$s</string>
+  <string name="app_name">CM lokatze pantaila</string>
+  <string name="keyguard_discharging"><xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g> deskargatzen</string>
+  <plurals name="missed_calls">
+    <item quantity="one">Dei galdu %d</item>
+    <item quantity="other">%d dei galdu</item>
+  </plurals>
+  <plurals name="unread_messages">
+    <item quantity="one">Irakurri gabeko mezu %d</item>
+    <item quantity="other">Irakurri gabeko %d mezu</item>
+  </plurals>
+  <string name="missed_call">Dei galdua</string>
+  <string name="message_from">Honen mezua:</string>
+  <string name="message_from_person">%1$s -(r)en mezua</string>
 </resources>
