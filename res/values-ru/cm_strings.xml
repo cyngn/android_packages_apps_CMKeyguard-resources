@@ -28,7 +28,7 @@
     <item quantity="few">%d непрочитанных сообщения</item>
     <item quantity="other">%d непрочитанных сообщений</item>
   </plurals>
-  <string name="missed_call">пропущенный звонок</string>
+  <string name="missed_call">пропущенный вызов</string>
   <string name="message_from">сообщение от</string>
   <string name="message_from_person">сообщение от абонента «%1$s»</string>
 </resources>
