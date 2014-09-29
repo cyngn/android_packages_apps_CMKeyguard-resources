@@ -22,6 +22,10 @@
     <item quantity="one">%d oproep gemis</item>
     <item quantity="other">%d oproepe gemis</item>
   </plurals>
+  <plurals name="unread_messages">
+    <item quantity="one">%d ongeleesde boodskap</item>
+    <item quantity="other">%d ongeleesde boodskappe</item>
+  </plurals>
   <string name="missed_call">Oproep gemis</string>
   <string name="message_from">Boodskap van</string>
   <string name="message_from_person">Boodskap van %1$s</string>
