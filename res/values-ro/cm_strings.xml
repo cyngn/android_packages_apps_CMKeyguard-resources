@@ -17,7 +17,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Lockscreen CM</string>
-  <string name="keyguard_discharging">Descărcare, <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
+  <string name="keyguard_discharging">Se descarcă, <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
+  <plurals name="missed_calls">
+    <item quantity="one">%d apel pierdut</item>
+    <item quantity="few">%d apeluri pierdute</item>
+    <item quantity="other">%d apeluri pierdute</item>
+  </plurals>
+  <plurals name="unread_messages">
+    <item quantity="one">%d mesaj necitit</item>
+    <item quantity="few">%d mesaje necitite</item>
+    <item quantity="other">%d mesaje necitite</item>
+  </plurals>
   <string name="missed_call">apel pierdut</string>
   <string name="message_from">mesaj de la</string>
   <string name="message_from_person">mesaje de la %1$s</string>
