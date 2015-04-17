@@ -16,16 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="keyguard_discharging"><xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g> deskargatzen</string>
+  <string name="app_name">Pantalla de bloqueo CM</string>
+  <string name="keyguard_discharging">Descargando <xliff:g id="number">%d</xliff:g><xliff:g id="percent">%%</xliff:g></string>
   <plurals name="missed_calls">
-    <item quantity="one">Dei galdu %d</item>
-    <item quantity="other">%d dei galdu</item>
+    <item quantity="one">%d llamada perdida</item>
+    <item quantity="other">%d llamadas perdidas</item>
   </plurals>
   <plurals name="unread_messages">
-    <item quantity="one">Irakurri gabeko mezu %d</item>
-    <item quantity="other">Irakurri gabeko %d mezu</item>
+    <item quantity="one">%d mensaje no leído</item>
+    <item quantity="other">%d mensajes no leídos</item>
   </plurals>
-  <string name="missed_call">Dei galdua</string>
-  <string name="message_from">Honen mezua:</string>
-  <string name="message_from_person">%1$s -(r)en mezua</string>
+  <string name="missed_call">llamada perdida</string>
+  <string name="message_from">mensaje de</string>
+  <string name="message_from_person">mensaje de %1$s</string>
 </resources>
