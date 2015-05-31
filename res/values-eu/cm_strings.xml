@@ -28,5 +28,5 @@
   </plurals>
   <string name="missed_call">Dei galdua</string>
   <string name="message_from">Honen mezua:</string>
-  <string name="message_from_person">%1$s -(r)en mezua</string>
+  <string name="message_from_person">%1$s(r)en mezua</string>
 </resources>
